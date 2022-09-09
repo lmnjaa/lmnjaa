@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lmnjaa
-- 👀 I’m interested in Javascript/Typescript, NodeJS, Postgresql and microservices
+- 👀 I’m interested in Javascript/Typescript, NodeJS, Postgresql, and Microservices
 - 🌱 I’m currently learning microservices and researching blockchain
