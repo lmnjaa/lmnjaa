@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @lmnjaa
-- 👀 I’m interested in Javascript/Typescript, NodeJS, Postgresql, and Microservices
-- 🌱 I’m currently learning microservices and researching blockchain
+- 👋 Hi, I’m Nemanja (@lmnjaa)
+- 💻 I work as a software developer for 2+ years.
+- 🌱 Started with .NET/C# career, want to expand my personal experience on JS/TS, Nodejs, etc.
+- 👀 I’m interested in Javascript/Typescript, NodeJS, and Microservices
+- 📈 My current interests are pointed to learning DevOps and getting knowledge in blockchain
